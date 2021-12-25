@@ -1,0 +1,20 @@
+{
+  "name": "AWSTest",
+  "version": "1.0.0",
+  "description": "Project created to Test AWS\r >Test Automation\r >Test Kubernetes and Docker\r >Test Lambda deployment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andreksp/AWSTest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andreksp/AWSTest/issues"
+  },
+  "homepage": "https://github.com/andreksp/AWSTest#readme"
+}
