@@ -3,6 +3,6 @@ exports.handler = async (event) => {
     statusCode: 200,
     body: JSON.stringify("Hello from Lambda and Github!"),
   }
-  console.log('running my first lambda from git hub');
+  console.log('running my first lambda from git hub! SUCCESS');
   return response
 }
