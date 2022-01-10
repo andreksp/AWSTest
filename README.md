@@ -1,6 +1,7 @@
 # To remember
-Create a S3 bucket that will store the outputtemplate 
-Stack for CloudFormation needs the outputtemplate to create the infrastructure.
+Create S3 Bucket with the same same it is in the cmd.
+Create Stack 
+Create Pipeline and attach to Stack
 https://www.youtube.com/watch?v=UlX38mVvMy8&t=487s
 
 # CloudFormation
